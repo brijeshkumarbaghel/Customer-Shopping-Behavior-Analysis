@@ -106,7 +106,7 @@ The dataset contains customer demographic information, purchasing behavior, prod
 ### Customer Behavior Dashboard
 
 <p align="center">
-  <img src="images/customer_behavior_dashboard.png" alt="Customer Behavior Dashboard" width="900">
+  <img src="images/Customer Behavior Dashboard.png" alt="Customer Behavior Dashboard" width="900">
 </p>
 
 ### Key Metrics
